@@ -39,7 +39,7 @@ manage.py createsuperuser
 ```bash
 python manage.py runserver
 ```
-###Прописать адрес Redis сервера в settings 
+### Прописать адрес Redis сервера в settings 
 
 Выполнить команду в втором терминале:
 
